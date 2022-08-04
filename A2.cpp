@@ -1,3 +1,3 @@
 int main(){
-    cout<<"hello A2 2nd commit list";
+    cout<<"hello A2 2nd pull";
 }
