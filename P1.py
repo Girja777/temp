@@ -1,1 +1,1 @@
-print "hello python 2nd time and adam"
+print "hello python is 2nd time and adam"
